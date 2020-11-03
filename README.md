@@ -2,8 +2,10 @@
 A (nascent) collection of jupyter notebooks of various geo data processing workflows, collating from various other places and projects
 
 Create a suitable environment using e.g. 
+
 `conda env create -f conda_env/geodev_38_environment.yml`
-(exported using `conda env export --from-history`
+
+(exported using `conda env export --from-history`)
 
 ### Notebooks
 
