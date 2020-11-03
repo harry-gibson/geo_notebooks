@@ -1,0 +1,42 @@
+name: geodev_38
+channels:
+  - defaults
+dependencies:
+  - geos
+  - numexpr
+  - cython
+  - geotiff
+  - numpy
+  - fiona
+  - notebook
+  - plotly
+  - pipreqs
+  - pip
+  - seaborn
+  - ipyleaflet
+  - ruamel
+  - geopandas
+  - arcgis
+  - bottleneck
+  - sqlalchemy
+  - spyder
+  - earthengine-api
+  - folium
+  - sqlite
+  - gdal
+  - jupyterlab
+  - ipython
+  - pandas
+  - python=3.8
+  - psycopg2
+  - ruamel.yaml
+  - jupyter
+  - xlrd
+  - scipy
+  - shapely
+  - rasterio
+  - dask
+  - swifter
+  - ipywidgets
+  - fastparquet
+prefix: /home/harry/anaconda3/envs/geodev_38
