@@ -1,5 +1,7 @@
 name: geodev_38
 channels:
+  - esri
+  - conda-forge
   - defaults
 dependencies:
   - geos
@@ -39,4 +41,10 @@ dependencies:
   - swifter
   - ipywidgets
   - fastparquet
+  - pip:
+    - dill
+    - pandarallel
+    - pyqt5-sip
+    - pyqtchart
+    - pyqtwebengine
 prefix: /home/harry/anaconda3/envs/geodev_38
